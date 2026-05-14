@@ -273,7 +273,7 @@ dir
 ---
 
 ## License
-Script for Blue Team / Local or Authorized Testing Only
+MIT License / Local or Authorized Testing Only
 
 ---
 
