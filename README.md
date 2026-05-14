@@ -1,4 +1,4 @@
-# Blue Team Reconnaissance - Python Scripts
+# Blue Team Reconnaissance Tool
 ## Hardware Audit Suite for Remote Reconnaissance Projects
 
 ---
